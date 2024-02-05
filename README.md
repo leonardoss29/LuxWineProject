@@ -8,7 +8,7 @@ The application simulate a real e-commerce, you can add or remove any product in
 
 ## Figma Layout
 
-![Figma Layout](./src/Assets/FigmaLayout.png)
+![Figma Layout](./src/assets/FigmaLayout.png)
 
 ## Stacks
 
