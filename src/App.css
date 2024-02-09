@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+  --b1:#808080;
+  --b2:#969696;
+  --b3:#ACACAC;
+  --b4:#C1C1C1;
+  --b5:#D7D7D7;
+  --b6:#E8E8E8;
+  --b7:#F7F7F7;
+  --p1:#781117;
+  --p2:#6C1D23;
+  --p3:#842C39;
+  --p4:#A2213E;
+  --p5:#8C001A;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'EB Garamond', serif !important;
+}
+
+p {
+  font-family: 'Lato', sans-serif !important;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

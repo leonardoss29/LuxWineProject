@@ -14,11 +14,9 @@ The application simulate a real e-commerce, you can add or remove any product in
 
 - JSX
 
+- Css Module
+
 - React
-
-- Bootstrap 5
-
-- Sass
 
 - Vite
 
